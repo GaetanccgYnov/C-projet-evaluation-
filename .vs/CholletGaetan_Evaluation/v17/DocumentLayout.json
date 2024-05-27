@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#_.net\\projets\\CholletGaetan_Evaluation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37CD2A4E-B0C1-4BC6-86B0-044A99F6314C}|CholletGaetan_Evaluation\\CholletGaetan_Evaluation.csproj|e:\\c#_.net\\projets\\cholletgaetan_evaluation\\cholletgaetan_evaluation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CD2A4E-B0C1-4BC6-86B0-044A99F6314C}|CholletGaetan_Evaluation\\CholletGaetan_Evaluation.csproj|solutionrelative:cholletgaetan_evaluation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CD2A4E-B0C1-4BC6-86B0-044A99F6314C}|CholletGaetan_Evaluation\\CholletGaetan_Evaluation.csproj|E:\\C#_.net\\projets\\CholletGaetan_Evaluation\\cholletgaetan_evaluation\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CD2A4E-B0C1-4BC6-86B0-044A99F6314C}|CholletGaetan_Evaluation\\CholletGaetan_Evaluation.csproj|solutionrelative:cholletgaetan_evaluation\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CD2A4E-B0C1-4BC6-86B0-044A99F6314C}|CholletGaetan_Evaluation\\CholletGaetan_Evaluation.csproj|E:\\C#_.net\\projets\\CholletGaetan_Evaluation\\cholletgaetan_evaluation\\ajouterrecettewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CD2A4E-B0C1-4BC6-86B0-044A99F6314C}|CholletGaetan_Evaluation\\CholletGaetan_Evaluation.csproj|solutionrelative:cholletgaetan_evaluation\\ajouterrecettewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CD2A4E-B0C1-4BC6-86B0-044A99F6314C}|CholletGaetan_Evaluation\\CholletGaetan_Evaluation.csproj|E:\\C#_.net\\projets\\CholletGaetan_Evaluation\\cholletgaetan_evaluation\\ajouterproduitwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CD2A4E-B0C1-4BC6-86B0-044A99F6314C}|CholletGaetan_Evaluation\\CholletGaetan_Evaluation.csproj|solutionrelative:cholletgaetan_evaluation\\ajouterproduitwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CD2A4E-B0C1-4BC6-86B0-044A99F6314C}|CholletGaetan_Evaluation\\CholletGaetan_Evaluation.csproj|E:\\C#_.net\\projets\\CholletGaetan_Evaluation\\cholletgaetan_evaluation\\ajoutercommandewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CD2A4E-B0C1-4BC6-86B0-044A99F6314C}|CholletGaetan_Evaluation\\CholletGaetan_Evaluation.csproj|solutionrelative:cholletgaetan_evaluation\\ajoutercommandewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\C#_.net\\projets\\CholletGaetan_Evaluation\\CholletGaetan_Evaluation\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CholletGaetan_Evaluation\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\C#_.net\\projets\\CholletGaetan_Evaluation\\CholletGaetan_Evaluation\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CholletGaetan_Evaluation\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:29:23.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "E:\\C#_.net\\projets\\CholletGaetan_Evaluation\\CholletGaetan_Evaluation\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CholletGaetan_Evaluation\\LoginWindow.xaml.cs",
+              "ToolTip": "E:\\C#_.net\\projets\\CholletGaetan_Evaluation\\CholletGaetan_Evaluation\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "CholletGaetan_Evaluation\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:29:17.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AjouterRecetteWindow.xaml.cs",
+              "DocumentMoniker": "E:\\C#_.net\\projets\\CholletGaetan_Evaluation\\CholletGaetan_Evaluation\\AjouterRecetteWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CholletGaetan_Evaluation\\AjouterRecetteWindow.xaml.cs",
+              "ToolTip": "E:\\C#_.net\\projets\\CholletGaetan_Evaluation\\CholletGaetan_Evaluation\\AjouterRecetteWindow.xaml.cs",
+              "RelativeToolTip": "CholletGaetan_Evaluation\\AjouterRecetteWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:29:12.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AjouterProduitWindow.xaml.cs",
+              "DocumentMoniker": "E:\\C#_.net\\projets\\CholletGaetan_Evaluation\\CholletGaetan_Evaluation\\AjouterProduitWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CholletGaetan_Evaluation\\AjouterProduitWindow.xaml.cs",
+              "ToolTip": "E:\\C#_.net\\projets\\CholletGaetan_Evaluation\\CholletGaetan_Evaluation\\AjouterProduitWindow.xaml.cs",
+              "RelativeToolTip": "CholletGaetan_Evaluation\\AjouterProduitWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:29:07.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AjouterCommandeWindow.xaml.cs",
+              "DocumentMoniker": "E:\\C#_.net\\projets\\CholletGaetan_Evaluation\\CholletGaetan_Evaluation\\AjouterCommandeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CholletGaetan_Evaluation\\AjouterCommandeWindow.xaml.cs",
+              "ToolTip": "E:\\C#_.net\\projets\\CholletGaetan_Evaluation\\CholletGaetan_Evaluation\\AjouterCommandeWindow.xaml.cs",
+              "RelativeToolTip": "CholletGaetan_Evaluation\\AjouterCommandeWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:29:01.186Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
